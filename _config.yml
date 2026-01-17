@@ -1,7 +1,7 @@
 # Basic Information 
 title: Lorenz Vogel
-position: PhD Student
-affiliation: Heidelberg University
+position: PhD Student in Particle Theory and Machine Learning
+affiliation: Institute for Theoretical Physics, Heidelberg University, Germany
 email: vogel@thphys.uni-heidelberg.de
 
 # Search Engine Optimization (SEO)
@@ -18,7 +18,7 @@ linkedin: https://www.linkedin.com/in/lorenzvogel/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/LorenzVogel_compressed.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
