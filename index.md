@@ -4,20 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello, my name is Lorenz Vogel. I am a doctoral student in particle phenomenology and machine learning at the Institute for Theoretical Physics (ITP) at Heidelberg University, Germany.
 
-## Research Interests
+## News and Events
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **[Sep. 15–19, 2025]** One-week Machine Learning for Fundamental Physics school of the Interdisciplinary Center for Scientific Computing (IWR)
 
-## News
+## Workshops and Conferences
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb. 2026]** MadGraph
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
