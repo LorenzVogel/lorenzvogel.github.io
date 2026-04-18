@@ -12,7 +12,7 @@ If you have any questions or need further information, please feel free to conta
 
 This is a list of my talks and posters at conferences and workshops in reverse-chronological order.
 
-- **[September 9, 2025]** DESY and University of Hamburg, Germany
+- **[September 9, 2025]** DESY and University of Hamburg, Germany<br>
 Talk at the 23rd International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT)
 
     June 18, 2025 — Ulster University, Derry~Londonderry, UK
